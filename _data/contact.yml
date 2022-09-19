@@ -1,8 +1,9 @@
 #  The contact options.
 
 -
-  type: github
-  icon: 'fab fa-github'
+  type: facebook
+  icon: 'fab fa-facebook'
+  url:  'https://fb.com/OisinCLG.Manchester'
 -
   type: twitter
   icon: 'fab fa-twitter'
@@ -11,9 +12,13 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+  type: instagram
+  icon: 'fab fa-instagram'
+  url: 'https://www.instagram.com/oisinclgmanchester'
+# -
+#   type: rss
+#   icon: 'fas fa-rss'
+#   noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
