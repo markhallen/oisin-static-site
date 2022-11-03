@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Raffle
-icon: fas fa-ticket
+icon: fas fa-ticket-simple
 order: 4
 ---
 
