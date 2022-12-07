@@ -9,4 +9,4 @@ order: 3
 
 Find our club store on [oneills.com](https://www.oneills.com/uk_en/shop-by-team/gaa/united-kingdom/oisin-clg.html).
 
-![img-description](/assets/img/oneills-store-oisin.png)
+![img-description](/assets/img/shop.png)
