@@ -3,6 +3,7 @@ layout: page
 title: Membership
 icon: fas fa-user
 order: 5
+permalink: /membership/
 ---
 
 ## Oisín GAA Manchester Membership – Now Open
