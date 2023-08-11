@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://markhallen.github.io/oisin-static-site/sitemap.xml
